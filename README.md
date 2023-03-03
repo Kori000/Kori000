@@ -1,5 +1,5 @@
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kori000&" alt="kori" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kori000&theme=dark" alt="kori" /></p>
 
 - 🌱 I’m currently learning **Python**
 
