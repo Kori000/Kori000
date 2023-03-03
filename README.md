@@ -1,5 +1,8 @@
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kori000&theme=dark" alt="kori" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Kori000&theme=dark&date_format=%5BY.%5Dn.j&background=101216&stroke=3E3E3E7D&border=C0C0C033" alt="kori" /></p>
+
+
+
 
 - 🌱 I’m currently learning **Python**
 
