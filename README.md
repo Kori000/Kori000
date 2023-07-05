@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Nest**
 
 - 💬 Ask me about **react, vue**
 
